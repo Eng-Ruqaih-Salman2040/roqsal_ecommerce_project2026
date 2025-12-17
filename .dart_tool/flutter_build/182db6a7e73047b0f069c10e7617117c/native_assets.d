@@ -1,0 +1,1 @@
+ C:\\Users\\TGC\\StudioProjects\\roqsal_ecommerce_project2026\\.dart_tool\\flutter_build\\182db6a7e73047b0f069c10e7617117c\\native_assets.yaml: 
